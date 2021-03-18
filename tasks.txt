@@ -1,0 +1,3 @@
+1. Race numbers are assigned randomly. We’ve provided the necessary code at the top of the file.    
+    Check off this task after reading that line.
+    You can read the hint if you want to learn how it works!
